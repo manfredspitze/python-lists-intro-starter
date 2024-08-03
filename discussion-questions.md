@@ -1,8 +1,9 @@
 # Discussion Questions
-## Topic
+## Intro to Python Lists
 
-1. Question
-
-2. Question
+1. Python lists are **zero-based**.  Explain what that means in plain English.
+   - Answer
 
 3. Question
+
+4. Question
