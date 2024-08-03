@@ -32,4 +32,4 @@
 
 - Read Chapter 3 (Introducing Lists) in the **Python Crash Course** textbook
 - Watch at least one video about getting started with Python lists
-  - See the **Traversy Media** or the **Programming with Mosh* playlists on Google Classroom
+  - See the **Traversy Media** or the **Programming with Mosh** playlists on Google Classroom
