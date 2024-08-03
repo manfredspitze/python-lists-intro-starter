@@ -36,4 +36,12 @@
     - See also *Avoiding Index Errors When Working with Lists* (pp. 46 - 48)
 - Watch at least one video about getting started with Python lists
   - See the **Traversy Media** or the **Programming with Mosh** playlists on Google Classroom
-- 
+
+## Practice Projects
+
+- Complete these practice projects and be prepared to show your work to your teacher upon request
+
+    - **Try It Yourself**, pp. 42 - 43
+      - Exercises 3-4 through 3-7
+    - **Try It Yourself**,
+      - Exercise 3-9, p. 46
