@@ -1,6 +1,6 @@
 
 # Exit Ticket
-## Topic
+## Intro to Python Lists
 
 - Please answer the following questions 
 - Use correct spelling and grammar
@@ -9,14 +9,19 @@
 `
 fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 `
+What's the index number for kiwi?
 - *Your answer here...*
 
 
-#### Question 
+#### The names of lists are plural.  Why is this so? 
 - *Your answer here...*
 
 
-#### Question 
+#### Assume you have the following list:
+`
+fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+`
+Moving right to left through the list, what's the negative index number for melon?
 - *Your answer here...*
 
 
