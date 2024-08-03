@@ -1,5 +1,5 @@
 # Lesson Notes
-## Intro to Python Lists
+## Introducing Lists
 
 ### Directions
 - Check out the related resources before you start writing any code for this lesson
