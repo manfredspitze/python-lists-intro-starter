@@ -31,5 +31,9 @@
 ## Your Tasks
 
 - Read Chapter 3 (Introducing Lists) in the **Python Crash Course** textbook
+    - Focus on pp. 33 - 43
+    - Learn how to find the **length** of a list (p. 45)
+    - See also *Avoiding Index Errors When Working with Lists* (pp. 46 - 48)
 - Watch at least one video about getting started with Python lists
   - See the **Traversy Media** or the **Programming with Mosh** playlists on Google Classroom
+- 
