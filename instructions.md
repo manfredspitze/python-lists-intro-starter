@@ -45,3 +45,7 @@
       - Exercises 3-4 through 3-7
     - **Try It Yourself**, p. 46
       - Exercise 3-9
+     
+## Exit Ticket
+- Complete the `exit-ticket.md` file found in this repository
+- Discuss your answers when you are done with your teacher
