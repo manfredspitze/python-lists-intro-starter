@@ -19,7 +19,7 @@
 
 ## General Specifications
 
-- Add a comment block 
+- Add a comment block to your Python files, like so:
 ```python
 # Abraham Lincoln
 # 24 MAR 20XX
@@ -27,11 +27,6 @@
 ```
 - Use short, descriptive filenames
 - Write your filenames in lowercase
-
-## Resources & Examples
-
-- http://www.example.com
-- https://www.washingtonpost.com/
 
 ## Your Tasks
 
