@@ -24,6 +24,8 @@ fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 Moving right to left through the list, what's the negative index number for melon?
 - *Your answer here...*
 
+#### What's a limitation of a Python variable (compared to a list)?
+- *Your answer here...*
 
 
 
