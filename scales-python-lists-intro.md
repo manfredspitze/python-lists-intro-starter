@@ -30,6 +30,7 @@
 - Can explain how index numbers are used with lists
 - Can explain the basic difference between how variables and lists work
 - Can use index numbers to display specific list items
+- Can use index numbers to display a list slice (part of a list, not the entire list)
 - Understand that the last list item always has an index number of -1 (when moving left to right through the list)
 ---
 
