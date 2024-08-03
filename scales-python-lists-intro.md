@@ -18,10 +18,14 @@
 ---
 
 ### Creating & Working with Python Lists
-- Spec
-- Spec
-- Spec
-- Spec
+- I can create and name an empty Python list
+- Can create a Python list and add items/elements to it
+- Can use the `append()` method to add an item to the end of a list
+- Can use the `remove()` method to remove an item from a list
+- Can use the `insert()` method to add an item at a specified position in a list
+- Can use the `pop()` method to remove an item from a specified position in a list
+- Can explain how index numbers are used with lists
+- Can explain the basic difference between how variables and lists work
 ---
 
 ### Formatting Code
