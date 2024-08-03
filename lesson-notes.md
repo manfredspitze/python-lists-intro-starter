@@ -1,8 +1,8 @@
 # Lesson Notes
-## Topic
+## Intro to Python Lists
 
 ### Directions
-- Read these notes and check out the related resources before you start writing any code for this lesson
+- Check out the related resources before you start writing any code for this lesson
 
 
 ### Related Resources
@@ -15,4 +15,12 @@
 
 ### Notes
 
-- Item 
+- Terms related to Python lists you should be familar with by the end of the unit include:
+  - square bracket notation
+  - index number
+  - negative index number
+  - list item (also known as a **list element**)
+  - list slicing
+  - to **append** an item to a list
+  - lists are **zero-based** (What does this mean in plain English?)
+  - In other languages, lists are known as *arrays*  (but they're really the same thing)
