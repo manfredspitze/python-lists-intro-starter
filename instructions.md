@@ -43,5 +43,5 @@
 
     - **Try It Yourself**, pp. 42 - 43
       - Exercises 3-4 through 3-7
-    - **Try It Yourself**,
-      - Exercise 3-9, p. 46
+    - **Try It Yourself**, p. 46
+      - Exercise 3-9
