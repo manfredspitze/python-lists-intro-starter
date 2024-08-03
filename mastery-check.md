@@ -1,4 +1,4 @@
-# Mastery Check: Topic
+# Mastery Check: Introducing Lists
 
 ## Submitting Your Work
 > Create a **PUBLIC** GitHub repo named: ***intro-lists-mc1***
