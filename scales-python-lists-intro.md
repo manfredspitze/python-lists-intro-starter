@@ -26,6 +26,8 @@
 - Can use the `pop()` method to remove an item from a specified position in a list
 - Can explain how index numbers are used with lists
 - Can explain the basic difference between how variables and lists work
+- Can use index numbers to display specific list items
+- Understand that the last list item always has an index number of -1 (when moving left to right through the list)
 ---
 
 ### Formatting Code
