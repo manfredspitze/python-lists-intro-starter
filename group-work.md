@@ -1,5 +1,5 @@
 # Small Group Work
-## Topic
+## Introducing Lists
 
 ### Directions
 > Work with your assigned group
@@ -12,7 +12,9 @@
 ---
 
 ### Today's Objective
-> Objective
+> To learn how to create and start adding items to a Python list
+> To understand how a list works differently than a variable
+> To understand how you use index numbers with Python lists
 
 ### Group 1
 - Do this
