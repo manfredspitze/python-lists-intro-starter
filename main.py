@@ -1,6 +1,6 @@
 # Student name
 # Current date
-# Project title
+# Lists Intro
 
 # Part 1
 # Comment
