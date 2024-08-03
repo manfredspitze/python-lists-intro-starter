@@ -1,9 +1,14 @@
 
-# Name of Assignment
+# Introducing Lists
 
 ## Objective
 
-> *Objective*
+> *In this unit, you'll:*
+>
+> *learn what lists are and how to start working with the elements in a list*
+>
+> *learn some of the terms programmers use when working with and talking about lists*
+> 
 
 ## Getting Started
 
