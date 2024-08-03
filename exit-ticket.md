@@ -20,7 +20,7 @@ What's the index number for kiwi?
 #### Assume you have the following list:
 `
 fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-`
+`  
 Moving right to left through the list, what's the negative index number for melon?
 - *Your answer here...*
 
