@@ -3,6 +3,7 @@
 
 ### Directions
 - Check out the related resources before you start writing any code for this lesson
+- Make sure you understand how to use the `append()`, `insert()`, `remove()`, and `append()` list methods to manage items in a list
 
 
 ### Related Resources
