@@ -26,6 +26,7 @@
 - Can use the `insert()` method to add an item at a specified position in a list
 - Can use the `pop()` method to remove an item from a specified position in a list
 - Can use the `len()` function to get the number of items in a list
+- Can use the `sum()` function to find the sum of all numbers (numeric values) in a list
 - Can explain how index numbers are used with lists
 - Can explain the basic difference between how variables and lists work
 - Can use index numbers to display specific list items
