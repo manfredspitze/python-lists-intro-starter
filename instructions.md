@@ -12,7 +12,7 @@
 
 ## Getting Started
 
-- Read instructions and review the project resources
+- Read instructions and review the related resources in the Lesson Notes markdown (.md) file in this starter repo
 - Create a **public** GitHub repo named: **list-intro**
     - Upload your project files to the repo
     - Submit the URL that points to your repo on Google Classroom
