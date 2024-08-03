@@ -19,6 +19,7 @@
 
 ### Creating & Working with Python Lists
 - I can create and name an empty Python list
+- Can follow the rules for naming Python lists
 - Can create a Python list and add items/elements to it
 - Can use the `append()` method to add an item to the end of a list
 - Can use the `remove()` method to remove an item from a list
