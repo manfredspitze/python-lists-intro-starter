@@ -13,7 +13,9 @@
 
 ### Today's Objective
 > To learn how to create and start adding items to a Python list
+> 
 > To understand how a list works differently than a variable
+> 
 > To understand how you use index numbers with Python lists
 
 ### Group 1
